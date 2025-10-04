@@ -1346,11 +1346,6 @@ h6{
   caption-side: bottom;
 }
 
-.rounded-bltr-full{
-  border-bottom-left-radius: 9999px;
-  border-top-right-radius: 9999px;
-}
-
 .rounded-bltr-\[30px\]{
   border-bottom-left-radius: 30px;
   border-top-right-radius: 30px;
